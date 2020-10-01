@@ -1,17 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Abhijeet Shelke's Portfolio.
 
-You can use the [editor on GitHub](https://github.com/Abhi-ipynb/Abhi-ipynb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, This repository contains projects done by me for learning purposes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Web-Scrapper
 ## Header 2
 ### Header 3
 
