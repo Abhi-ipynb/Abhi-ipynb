@@ -8,26 +8,9 @@ Hello, This repository contains projects done by me for learning purposes.
 > - [Web-Scrapper](https://github.com/Abhi-ipynb/Web-Scrapper):
 **In this project, I made a code which can collect feedback of product from the Flipkart website and show it to you on a beautiful [UI](https://tranquil-oasis-84503.herokuapp.com/). The result page contains Product, Name, Rating, Rating,  Comment-Head, and Comment.**
 
-## Header 2
-### Header 3
+## Machine Learning
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Deep Learninh
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abhi-ipynb/Abhi-ipynb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Data Analysis and Visualisation
