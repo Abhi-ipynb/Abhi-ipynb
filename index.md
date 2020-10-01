@@ -9,7 +9,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# [Web-Scrapper] (https://github.com/Abhi-ipynb/Web-Scrapper)
+#[Web-Scrapper](https://github.com/Abhi-ipynb/Web-Scrapper)
 ## Header 2
 ### Header 3
 
