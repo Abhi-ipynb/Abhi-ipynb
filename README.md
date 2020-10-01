@@ -1,6 +1,15 @@
-### Hello.
+## Welcome to Abhijeet Shelke's Portfolio.
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 📫 How to reach me: abhijeetshilke@gmail.com
-- 😄 Pronouns: Abhi
--->
+Hello, This repository contains projects done by me for learning purposes.
+
+# Projects
+
+## Python
+> - [Web-Scrapper](https://github.com/Abhi-ipynb/Web-Scrapper):
+**In this project, I made a code which can collect feedback of product from the Flipkart website and show it to you on a beautiful [UI](https://tranquil-oasis-84503.herokuapp.com/). The result page contains Product, Name, Rating, Rating,  Comment-Head, and Comment.**
+
+## Machine Learning
+
+## Deep Learning
+
+## Data Analysis and Visualisation
