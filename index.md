@@ -5,9 +5,9 @@ Hello, This repository contains projects done by me for learning purposes.
 ### Projects
 
 # Python
-[Web-Scrapper](https://github.com/Abhi-ipynb/Web-Scrapper):
+> - [Web-Scrapper](https://github.com/Abhi-ipynb/Web-Scrapper):
 **In this project, I made a code which can collect feedback of product from the Flipkart website and show it to you on a beautiful UI. The result page contains Product, Name, Rating, Rating,  Comment-Head, and Comment.**
-[Link of UI](https://tranquil-oasis-84503.herokuapp.com/)
+> - [Link of UI](https://tranquil-oasis-84503.herokuapp.com/)
 ## Header 2
 ### Header 3
 
